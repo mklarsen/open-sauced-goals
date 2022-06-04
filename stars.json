@@ -13,9 +13,9 @@
   },
   {
     "full_name": "syncfusion/flutter-examples",
-    "stargazers_count": 1362,
-    "open_issues_count": 28,
-    "forks_count": 572
+    "stargazers_count": 1367,
+    "open_issues_count": 30,
+    "forks_count": 577
   },
   {
     "full_name": "Sithira/FlutterRadioPlayer",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "iGhibli/iOS-DeviceSupport",
-    "stargazers_count": 6866,
+    "stargazers_count": 6880,
     "open_issues_count": 89,
-    "forks_count": 1012
+    "forks_count": 1013
   },
   {
     "full_name": "emanuelraj/vendor-crud-sample-medium-post",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 61432,
-    "open_issues_count": 625,
-    "forks_count": 6045
+    "stargazers_count": 61486,
+    "open_issues_count": 626,
+    "forks_count": 6049
   },
   {
     "full_name": "vimagick/dockerfiles",
-    "stargazers_count": 2785,
+    "stargazers_count": 2786,
     "open_issues_count": 80,
     "forks_count": 730
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 203223,
-    "open_issues_count": 51,
-    "forks_count": 23535
+    "stargazers_count": 203501,
+    "open_issues_count": 45,
+    "forks_count": 23552
   },
   {
     "full_name": "justinltodd/terraform-azure-openvpn",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "directorcia/Office365",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 4,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "chocolatey/chocolatey-workshop",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "dfinke/ImportExcel",
-    "stargazers_count": 1825,
-    "open_issues_count": 16,
-    "forks_count": 316
+    "stargazers_count": 1829,
+    "open_issues_count": 22,
+    "forks_count": 315
   },
   {
     "full_name": "selivan/https-ssl-cert-check-zabbix",
-    "stargazers_count": 218,
+    "stargazers_count": 220,
     "open_issues_count": 1,
     "forks_count": 48
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "docker/docker-ce",
-    "stargazers_count": 5492,
+    "stargazers_count": 5490,
     "open_issues_count": 2,
-    "forks_count": 1485
+    "forks_count": 1486
   },
   {
     "full_name": "kvijayan/AppTrap",
@@ -140,7 +140,7 @@
   {
     "full_name": "privacypass/challenge-bypass-extension",
     "stargazers_count": 976,
-    "open_issues_count": 43,
+    "open_issues_count": 42,
     "forks_count": 198
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "BerlinVagrant/vagrant-dns",
-    "stargazers_count": 483,
+    "stargazers_count": 484,
     "open_issues_count": 5,
     "forks_count": 46
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "CocoaPods/CocoaPods",
-    "stargazers_count": 13721,
+    "stargazers_count": 13724,
     "open_issues_count": 360,
-    "forks_count": 2532
+    "forks_count": 2533
   },
   {
     "full_name": "docker-library/php",
-    "stargazers_count": 3184,
+    "stargazers_count": 3186,
     "open_issues_count": 43,
     "forks_count": 1931
   },
   {
     "full_name": "pnp/cli-microsoft365",
-    "stargazers_count": 602,
-    "open_issues_count": 172,
-    "forks_count": 219
+    "stargazers_count": 603,
+    "open_issues_count": 176,
+    "forks_count": 220
   }
 ]
