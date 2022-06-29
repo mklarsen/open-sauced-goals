@@ -13,9 +13,9 @@
   },
   {
     "full_name": "syncfusion/flutter-examples",
-    "stargazers_count": 1388,
-    "open_issues_count": 36,
-    "forks_count": 592
+    "stargazers_count": 1393,
+    "open_issues_count": 35,
+    "forks_count": 596
   },
   {
     "full_name": "Sithira/FlutterRadioPlayer",
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "iGhibli/iOS-DeviceSupport",
-    "stargazers_count": 6961,
-    "open_issues_count": 89,
+    "stargazers_count": 6967,
+    "open_issues_count": 91,
     "forks_count": 1029
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 61825,
+    "stargazers_count": 61885,
     "open_issues_count": 631,
-    "forks_count": 6090
+    "forks_count": 6100
   },
   {
     "full_name": "vimagick/dockerfiles",
-    "stargazers_count": 2805,
+    "stargazers_count": 2807,
     "open_issues_count": 80,
-    "forks_count": 736
+    "forks_count": 738
   },
   {
     "full_name": "smallpaes/todo-list",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 206045,
-    "open_issues_count": 37,
-    "forks_count": 23645
+    "stargazers_count": 206506,
+    "open_issues_count": 38,
+    "forks_count": 23663
   },
   {
     "full_name": "justinltodd/terraform-azure-openvpn",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "dfinke/ImportExcel",
-    "stargazers_count": 1847,
+    "stargazers_count": 1849,
     "open_issues_count": 12,
-    "forks_count": 319
+    "forks_count": 320
   },
   {
     "full_name": "selivan/https-ssl-cert-check-zabbix",
     "stargazers_count": 221,
     "open_issues_count": 1,
-    "forks_count": 48
+    "forks_count": 47
   },
   {
     "full_name": "sdcscripts/terraform-az-bastionpoc",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "docker/docker-ce",
-    "stargazers_count": 5498,
+    "stargazers_count": 5500,
     "open_issues_count": 2,
     "forks_count": 1492
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "privacypass/challenge-bypass-extension",
-    "stargazers_count": 997,
-    "open_issues_count": 36,
-    "forks_count": 201
+    "stargazers_count": 1002,
+    "open_issues_count": 37,
+    "forks_count": 203
   },
   {
     "full_name": "clouddrove/terraform-aws-ec2",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "CocoaPods/CocoaPods",
-    "stargazers_count": 13742,
-    "open_issues_count": 365,
-    "forks_count": 2540
+    "stargazers_count": 13747,
+    "open_issues_count": 367,
+    "forks_count": 2542
   },
   {
     "full_name": "docker-library/php",
-    "stargazers_count": 3207,
-    "open_issues_count": 24,
-    "forks_count": 1945
+    "stargazers_count": 3214,
+    "open_issues_count": 23,
+    "forks_count": 1951
   },
   {
     "full_name": "pnp/cli-microsoft365",
-    "stargazers_count": 606,
-    "open_issues_count": 168,
+    "stargazers_count": 607,
+    "open_issues_count": 161,
     "forks_count": 221
   }
 ]
