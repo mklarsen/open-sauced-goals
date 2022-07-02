@@ -13,13 +13,13 @@
   },
   {
     "full_name": "syncfusion/flutter-examples",
-    "stargazers_count": 1393,
-    "open_issues_count": 35,
-    "forks_count": 596
+    "stargazers_count": 1399,
+    "open_issues_count": 39,
+    "forks_count": 597
   },
   {
     "full_name": "Sithira/FlutterRadioPlayer",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 23,
     "forks_count": 38
   },
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "iGhibli/iOS-DeviceSupport",
-    "stargazers_count": 6967,
+    "stargazers_count": 6976,
     "open_issues_count": 91,
     "forks_count": 1029
   },
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 61885,
+    "stargazers_count": 61941,
     "open_issues_count": 631,
-    "forks_count": 6100
+    "forks_count": 6102
   },
   {
     "full_name": "vimagick/dockerfiles",
-    "stargazers_count": 2807,
+    "stargazers_count": 2811,
     "open_issues_count": 80,
     "forks_count": 738
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 206506,
+    "stargazers_count": 207039,
     "open_issues_count": 38,
-    "forks_count": 23663
+    "forks_count": 23675
   },
   {
     "full_name": "justinltodd/terraform-azure-openvpn",
@@ -98,7 +98,7 @@
   {
     "full_name": "dfinke/ImportExcel",
     "stargazers_count": 1849,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 320
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "docker/docker-ce",
-    "stargazers_count": 5500,
+    "stargazers_count": 5503,
     "open_issues_count": 2,
     "forks_count": 1492
   },
@@ -140,7 +140,7 @@
   {
     "full_name": "privacypass/challenge-bypass-extension",
     "stargazers_count": 1002,
-    "open_issues_count": 37,
+    "open_issues_count": 36,
     "forks_count": 203
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "CocoaPods/CocoaPods",
-    "stargazers_count": 13747,
-    "open_issues_count": 367,
-    "forks_count": 2542
+    "stargazers_count": 13752,
+    "open_issues_count": 369,
+    "forks_count": 2540
   },
   {
     "full_name": "docker-library/php",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "pnp/cli-microsoft365",
-    "stargazers_count": 607,
-    "open_issues_count": 161,
+    "stargazers_count": 608,
+    "open_issues_count": 170,
     "forks_count": 221
   }
 ]
